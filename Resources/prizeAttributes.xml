@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <prize>
+        <name>
+            "Life_30_min"
+        </name>
+        <chance>
+            20
+        </chance>
+        <image_path>
+            "tapblaze/heart.png"
+        </image_path>
+        <text_path>
+            "tapblaze/30min.png"
+        </text_path>
+    </prize>
+</resources>
